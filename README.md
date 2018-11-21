@@ -45,7 +45,7 @@ ReLinker is distributed using [jcenter](https://bintray.com/keepsafesoftware/And
    }
    
    dependencies {
-         compile 'com.getkeepsafe.relinker:relinker:1.3.0'
+         implementation 'com.getkeepsafe.relinker:relinker:1.3.0'
    }
 ```
 
